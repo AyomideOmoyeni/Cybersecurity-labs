@@ -1,33 +1,35 @@
-# Cybersecurity Labs 🔐
+# 🔐 Cybersecurity Labs
 
-Welcome to my cybersecurity lab repository.
+Welcome!
 
-I'm Ayomide Omoyeni, a Biochemistry graduate transitioning into cybersecurity. This repository documents my hands-on learning as I build practical skills through labs, projects, and real-world exercises.
+I'm **Ayomide Omoyeni**, a Biochemistry graduate transitioning into Cybersecurity.
 
-## 🎯 Goals
+This repository documents my practical learning journey as I build hands-on cybersecurity skills through labs, projects, and real-world exercises.
 
-- Strengthen my networking fundamentals.
-- Build practical cybersecurity skills through labs.
-- Document my learning consistently.
-- Create a portfolio that reflects my growth.
+---
 
-## 📚 Learning Roadmap
+## 🎯 Current Focus
 
-- [ ] Networking
-- [ ] OSI Model
-- [ ] TCP/IP
-- [ ] Linux Fundamentals
-- [ ] Wireshark
-- [ ] Nmap
-- [ ] Web Security
-- [ ] Vulnerability Assessment
-- [ ] Windows Security
-- [ ] Active Directory
-- [ ] SIEM
-- [ ] Incident Response
-- [ ] Digital Forensics
-- [ ] Python for Cybersecurity
-- [ ] Projects
+- 🌐 Networking Fundamentals
+- 🐧 Linux
+- 📡 Wireshark
+- 🔎 Nmap
+
+---
+
+## 📚 Learning Progress
+
+| Module | Status |
+|---------|--------|
+| Networking | 🟡 In Progress |
+| Linux | ⏳ Coming Soon |
+| Wireshark | ⏳ Coming Soon |
+| Nmap | ⏳ Coming Soon |
+| Web Security | ⏳ Coming Soon |
+| Active Directory | ⏳ Coming Soon |
+| Digital Forensics | ⏳ Coming Soon |
+
+---
 
 ## 📂 Repository Structure
 
@@ -39,12 +41,6 @@ Nmap/
 Projects/
 ```
 
-Each lab includes:
-- Objectives
-- Concepts covered
-- Commands used
-- Practical exercises
-- Key takeaways
-- Reflection
+---
 
-> "Learning by doing, one lab at a time."
+> Learning by doing.
