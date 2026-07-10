@@ -1,90 +1,88 @@
-# 🌐 Networking Labs | Day 1
+# Networking - Day 1
 
-## 🎯 Objective
+## Objective
 
-Understand the fundamentals of networking and become familiar with basic Windows networking commands.
-
----
-
-## 🛠️ Tools Used
-
-- Windows Command Prompt
-- ipconfig
-- ping
-- tracert
-- getmac
+Understand the fundamentals of computer networking and become familiar with basic networking commands available on Windows.
 
 ---
 
-## 📖 Concepts Covered
+## Topics Covered
 
+- Computer Networks
 - LAN vs WAN
-- IP Addressing
-- DNS
-- Routers
+- IPv4 Addresses
+- DNS (Domain Name System)
 - Default Gateway
-- Network Adapters
+- Routers
+- HTTP vs HTTPS
 
 ---
 
-## 💻 Practical Exercises
+## Practical Exercises
 
-### 1. ipconfig
+### 1. `ipconfig`
 
-**Purpose**
+Used `ipconfig` to inspect my network configuration.
 
-Displays the current network configuration.
-
-**Observation**
-
-- Active adapter: Wi-Fi
-- IPv4 Address: 192.168.100.3
-- Default Gateway: 192.168.100.1
+Key information identified:
+- My IPv4 address
+- Subnet mask
+- Default gateway
+- Active network adapter
 
 ---
 
-### 2. ping google.com
+### 2. `ping google.com`
 
-**Purpose**
-
-Tests connectivity to Google's server.
-
-**Observation**
-
-- 0% packet loss
-- Average response time: 12 ms
+Verified internet connectivity and observed:
+- DNS resolving a domain name into an IP address
+- Successful replies from Google's server
+- Round-trip response time
+- TTL values
 
 ---
 
-### 3. ping ecampus.fuoye.edu.ng
+### 3. `ping ecampus.fuoye.edu.ng`
 
-**Observation**
+The request timed out.
 
-DNS resolved successfully, but the server did not respond to ICMP requests.
-
-**Lesson**
-
-A failed ping does not always mean a server is offline.
+Instead of assuming the server was offline, I learned that many servers block ICMP (ping) requests for security reasons.
 
 ---
 
-### 4. tracert ecampus.fuoye.edu.ng
+### 4. `tracert ecampus.fuoye.edu.ng`
 
-**Observation**
+Used `tracert` to view the path packets took to reach the destination.
 
-Successfully traced the route through multiple hops before reaching the destination.
+Observed:
+- My default gateway
+- Multiple network hops
+- One router that didn't respond to ICMP
+- Successful arrival at the destination server
 
 ---
 
-## 🎓 Key Takeaways
+### 5. `getmac`
 
+Retrieved the MAC address of my network adapter and learned the difference between MAC addresses and IP addresses.
+
+---
+
+## Key Learnings
+
+- Every device on a network has an IP address.
 - DNS translates domain names into IP addresses.
 - Routers forward traffic between networks.
-- Traceroute reveals the path packets take.
-- Troubleshooting requires evidence, not assumptions.
+- A failed ping does not necessarily mean a website or server is down.
+- Traceroute helps identify the route packets take across a network.
+- MAC addresses identify devices on a local network, while IP addresses identify devices across networks.
 
 ---
 
-## 🚀 Next Lab
+## Reflection
 
-OSI Model
+Today's biggest lesson was learning not to jump to conclusions when troubleshooting a network.
+
+Initially, I assumed a failed ping meant a server was unavailable. After using `tracert` and discussing the results, I understood that servers can intentionally ignore ICMP requests while remaining fully operational.
+
+This was my first hands-on networking lab, and it gave me a much better understanding of how devices communicate across networks.

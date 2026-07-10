@@ -42,7 +42,12 @@ Projects/
 ```
 
 ---
-## 🚀 Current Progress
 
-- ✅ Networking Fundamentals (Completed)
-- 🔄 OSI Model (In Progress)
+> Lerning by doing.
+## Progress
+
+- ✅ Networking Lab Day 1 Completed
+## Current Progress
+
+- ✅ Networking Fundamentals
+- 🔄 Currently Learning: OSI Model
