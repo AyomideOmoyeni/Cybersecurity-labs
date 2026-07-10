@@ -47,3 +47,7 @@ Projects/
 ## Progress
 
 - ✅ Networking Lab Day 1 Completed
+## Current Progress
+
+- ✅ Networking Fundamentals
+- 🔄 Currently Learning: OSI Model
