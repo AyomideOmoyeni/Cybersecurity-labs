@@ -43,7 +43,7 @@ Projects/
 
 ---
 
-> Lerning by doing.
+> Learning by doing.
 ## Progress
 
 - ✅ Networking Lab Day 1 Completed
