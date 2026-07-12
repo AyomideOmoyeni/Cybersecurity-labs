@@ -6,11 +6,11 @@ This repository documents my hands-on cybersecurity journey as I build practical
 
 ## Learning Roadmap
 
-### Networking
+### Networking labs
 - ✅ Day 1 - Networking Fundamentals
 - ✅ Day 2 - OSI Model
 - ✅ Day 3 - TCP vs UDP
-- ⏳ Day 4 - Ports & Common Network Services
+- ✅ Day 4 - Ports & Common Network Services
 - ⏳ Day 5 - IP Addressing & Subnetting
 
 ### Linux
