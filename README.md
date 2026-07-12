@@ -1,53 +1,45 @@
-# 🔐 Cybersecurity Labs
+# Cybersecurity Labs
 
-Welcome!
+Welcome to my cybersecurity learning repository.
 
-I'm **Ayomide Omoyeni**, a Biochemistry graduate transitioning into Cybersecurity.
+This repository documents my hands-on cybersecurity journey as I build practical skills in networking, Linux, ethical hacking, digital forensics, and security tools.
 
-This repository documents my practical learning journey as I build hands-on cybersecurity skills through labs, projects, and real-world exercises.
+## Learning Roadmap
 
----
+### Networking
+- ✅ Day 1 - Networking Fundamentals
+- ✅ Day 2 - OSI Model
+- ✅ Day 3 - TCP vs UDP
+- ⏳ Day 4 - Ports & Common Network Services
+- ⏳ Day 5 - IP Addressing & Subnetting
 
-## 🎯 Current Focus
+### Linux
+- Coming Soon
 
-- 🌐 Networking Fundamentals
-- 🐧 Linux
-- 📡 Wireshark
-- 🔎 Nmap
+### Wireshark
+- Coming Soon
 
----
+### Nmap
+- Coming Soon
 
-## 📚 Learning Progress
+### Web Security
+- Coming Soon
 
-| Module | Status |
-|---------|--------|
-| Networking | 🟡 In Progress |
-| Linux | ⏳ Coming Soon |
-| Wireshark | ⏳ Coming Soon |
-| Nmap | ⏳ Coming Soon |
-| Web Security | ⏳ Coming Soon |
-| Active Directory | ⏳ Coming Soon |
-| Digital Forensics | ⏳ Coming Soon |
+## Repository Structure
 
----
-
-## 📂 Repository Structure
-
-```text
-Networking/
-Linux/
-Wireshark/
-Nmap/
-Projects/
+```
+Cybersecurity-labs/
+│
+├── Networking/
+├── Linux/
+├── Wireshark/
+├── Nmap/
+└── Web-Security/
 ```
 
----
+## Goals
 
-> Learning by doing.
-## Progress
-
-- ✅ Networking Lab Day 1 Completed
-## Current Progress
-
-- ✅ Networking Fundamentals
-- 🔄 Currently Learning: OSI Model
+- Learn cybersecurity through practical labs.
+- Document every lesson.
+- Build a professional GitHub portfolio.
+- Prepare for internships and entry-level cybersecurity roles.
