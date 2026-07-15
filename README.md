@@ -47,7 +47,7 @@ This repository serves as a public portfolio documenting my journey from beginne
 - [x] Day 4 – Ports & Common Network Services
 - [x] Day 5 – DHCP, DNS & NAT
 - [x] Day 6 – IPv4 Addressing
-- [ ] Day 7 – Subnetting I
+- [x] Day 7 – Subnetting I
 - [ ] Day 8 – Subnetting II
 - [ ] Day 9 – MAC Addresses & ARP
 - [ ] Day 10 – Routing Basics
@@ -141,7 +141,7 @@ Planned projects include:
 | Phase | Status |
 |--------|--------|
 | Environment Setup | ✅ Completed |
-| Networking | 🔄 6/18 |
+| Networking | 🔄 7/18 |
 | Linux | ⏳ Upcoming |
 | Bash Scripting | ⏳ Upcoming |
 | Python | ⏳ Upcoming |
