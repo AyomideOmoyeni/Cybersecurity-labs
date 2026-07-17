@@ -48,8 +48,8 @@ This repository serves as a public portfolio documenting my journey from beginne
 - [x] Day 5 – DHCP, DNS & NAT
 - [x] Day 6 – IPv4 Addressing
 - [x] Day 7 – Subnetting I
-- [ ] Day 8 – Subnetting II
-- [ ] Day 9 – MAC Addresses & ARP
+- [x] Day 8 – Subnetting II
+- [x] Day 9 – MAC Addresses & ARP
 - [ ] Day 10 – Routing Basics
 - [ ] Day 11 – HTTP
 - [ ] Day 12 – HTTPS & TLS
@@ -141,7 +141,7 @@ Planned projects include:
 | Phase | Status |
 |--------|--------|
 | Environment Setup | ✅ Completed |
-| Networking | 🔄 7/18 |
+| Networking | 🔄 9/18 |
 | Linux | ⏳ Upcoming |
 | Bash Scripting | ⏳ Upcoming |
 | Python | ⏳ Upcoming |
