@@ -50,8 +50,8 @@ This repository serves as a public portfolio documenting my journey from beginne
 - [x] Day 7 – Subnetting I
 - [x] Day 8 – Subnetting II
 - [x] Day 9 – MAC Addresses & ARP
-- [ ] Day 10 – Routing Basics
-- [ ] Day 11 – HTTP
+- [x] Day 10 – Routing Basics
+- [x] Day 11 – HTTP
 - [ ] Day 12 – HTTPS & TLS
 - [ ] Day 13 – Firewalls
 - [ ] Day 14 – VPN
@@ -141,7 +141,7 @@ Planned projects include:
 | Phase | Status |
 |--------|--------|
 | Environment Setup | ✅ Completed |
-| Networking | 🔄 9/18 |
+| Networking | 🔄 11/18 |
 | Linux | ⏳ Upcoming |
 | Bash Scripting | ⏳ Upcoming |
 | Python | ⏳ Upcoming |
