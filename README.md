@@ -52,7 +52,7 @@ This repository serves as a public portfolio documenting my journey from beginne
 - [x] Day 9 – MAC Addresses & ARP
 - [x] Day 10 – Routing Basics
 - [x] Day 11 – HTTP
-- [ ] Day 12 – HTTPS & TLS
+- [x] Day 12 – HTTPS & TLS
 - [ ] Day 13 – Firewalls
 - [ ] Day 14 – VPN
 - [ ] Day 15 – Wireshark
@@ -141,7 +141,7 @@ Planned projects include:
 | Phase | Status |
 |--------|--------|
 | Environment Setup | ✅ Completed |
-| Networking | 🔄 11/18 |
+| Networking | 🔄 12/18 |
 | Linux | ⏳ Upcoming |
 | Bash Scripting | ⏳ Upcoming |
 | Python | ⏳ Upcoming |
