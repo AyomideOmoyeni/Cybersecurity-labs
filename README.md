@@ -53,8 +53,8 @@ This repository serves as a public portfolio documenting my journey from beginne
 - [x] Day 10 – Routing Basics
 - [x] Day 11 – HTTP
 - [x] Day 12 – HTTPS & TLS
-- [ ] Day 13 – Firewalls
-- [ ] Day 14 – VPN
+- [x] Day 13 – Firewalls
+- [x] Day 14 – VPN
 - [ ] Day 15 – Wireshark
 - [ ] Day 16 – Nmap
 - [ ] Day 17 – Network Troubleshooting
@@ -141,7 +141,7 @@ Planned projects include:
 | Phase | Status |
 |--------|--------|
 | Environment Setup | ✅ Completed |
-| Networking | 🔄 12/18 |
+| Networking | 🔄 14/18 |
 | Linux | ⏳ Upcoming |
 | Bash Scripting | ⏳ Upcoming |
 | Python | ⏳ Upcoming |
