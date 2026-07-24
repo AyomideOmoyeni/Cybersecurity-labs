@@ -55,7 +55,7 @@ This repository serves as a public portfolio documenting my journey from beginne
 - [x] Day 12 – HTTPS & TLS
 - [x] Day 13 – Firewalls
 - [x] Day 14 – VPN
-- [ ] Day 15 – Wireshark
+- [x] Day 15 – Wireshark
 - [ ] Day 16 – Nmap
 - [ ] Day 17 – Network Troubleshooting
 - [ ] Day 18 – Networking Capstone Project
@@ -141,7 +141,7 @@ Planned projects include:
 | Phase | Status |
 |--------|--------|
 | Environment Setup | ✅ Completed |
-| Networking | 🔄 14/18 |
+| Networking | 🔄 15/18 |
 | Linux | ⏳ Upcoming |
 | Bash Scripting | ⏳ Upcoming |
 | Python | ⏳ Upcoming |
